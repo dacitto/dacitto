@@ -1,9 +1,11 @@
-### Hi there 👋
-
+# Hi there Im Salah Eddine 👋
+## Some of my projects
+- [Social media dashboard](https://dacitto.github.io/social-media-dashboard-with-theme-switcher/)
+- [Easybank landing page](https://dacitto.github.io/Easybank-landing-page/)
+- [Clipboard landing page](https://dacitto.github.io/clipboard-landing-page/)
+- [Fylo landing page](https://dacitto.github.io/fylo-dark-theme-landing-page/)
 <!--
-**dacitto/dacitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
