@@ -8,12 +8,15 @@
 
 
 ## Some of my projects
-- [Social media dashboard](https://dacitto.github.io/social-media-dashboard-with-theme-switcher/)
-- [Bookshelf react app](https://dacitto.github.io/bookshelf-react/)
-- [Todo react app](https://dacitto.github.io/todo-react/)
-- [Easybank landing page](https://dacitto.github.io/Easybank-landing-page/)
-- [Clipboard landing page](https://dacitto.github.io/clipboard-landing-page/)
-- [Fylo landing page](https://dacitto.github.io/fylo-dark-theme-landing-page/)
+|#| Project (live preview)  | Repo |
+|-| ----------- | ----------- |
+|1| [Social media dashboard](https://dacitto.github.io/social-media-dashboard-with-theme-switcher/)|
+|2| [Bookshelf react app](https://dacitto.github.io/bookshelf-react/)|
+|3| [Todo react app](https://dacitto.github.io/todo-react/)|
+|4| [Easybank landing page](https://dacitto.github.io/Easybank-landing-page/)|
+|5| [Clipboard landing page](https://dacitto.github.io/clipboard-landing-page/)|
+|6| [Fylo landing page](https://dacitto.github.io/fylo-dark-theme-landing-page/)|
+
 
 ## Languages and Tools:
 
