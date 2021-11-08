@@ -1,5 +1,6 @@
 ## Hi there, Im Salah Eddine 👋
 ### Full-Stack Web Developer / Software Engineer 
+
 ##### Social Links:
 <a href='https://www.linkedin.com/in/salah-daci/'><img src="https://github.com/dacitto/images-icons/blob/main/linkedin.png" alt="html" style="width:40px"/></a>
 
@@ -16,7 +17,7 @@
 
 ## Languages and Tools:
 
-<div>
+<div align="center">
   <img src="https://github.com/dacitto/images-icons/blob/main/html.png" alt="html" style="width:40px;"/>
   <img src="https://github.com/dacitto/images-icons/blob/main/css-3.png" alt="css" style="width:40px"/>
   <img src="https://github.com/dacitto/images-icons/blob/main/js.png" alt="js" style="width:40px"/>
