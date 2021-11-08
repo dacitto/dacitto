@@ -18,14 +18,14 @@
 ## Languages and Tools:
 
 <div align="center">
-  <img src="https://github.com/dacitto/images-icons/blob/main/html.png" alt="html" style="width:40px;"/>
-  <img src="https://github.com/dacitto/images-icons/blob/main/css-3.png" alt="css" style="width:40px"/>
-  <img src="https://github.com/dacitto/images-icons/blob/main/js.png" alt="js" style="width:40px"/>
-  <img src="https://github.com/dacitto/images-icons/blob/main/sass.png" alt="sass" style="width:40px"/>
-  <img src="https://github.com/dacitto/images-icons/blob/main/science.png" alt="react" style="width:40px"/>
-  <img src="https://github.com/dacitto/images-icons/blob/main/redux.png" alt="redux" style="width:40px"/>
-  <img src="https://github.com/dacitto/images-icons/blob/main/tailwind-css.png" alt="tailwind" style="width:40px"/>
-  <img src="https://github.com/dacitto/images-icons/blob/main/node-js.png" alt="node-js" style="width:40px"/>
+  <img src="https://github.com/dacitto/images-icons/blob/main/html.png" alt="html" style="width:40px;"/>&nbsp;&nbsp;
+  <img src="https://github.com/dacitto/images-icons/blob/main/css-3.png" alt="css" style="width:40px"/>&nbsp;&nbsp;
+  <img src="https://github.com/dacitto/images-icons/blob/main/js.png" alt="js" style="width:40px"/>&nbsp;&nbsp;
+  <img src="https://github.com/dacitto/images-icons/blob/main/sass.png" alt="sass" style="width:40px"/>&nbsp;&nbsp;
+  <img src="https://github.com/dacitto/images-icons/blob/main/science.png" alt="react" style="width:40px"/>&nbsp;&nbsp;
+  <img src="https://github.com/dacitto/images-icons/blob/main/redux.png" alt="redux" style="width:40px"/>&nbsp;&nbsp;
+  <img src="https://github.com/dacitto/images-icons/blob/main/tailwind-css.png" alt="tailwind" style="width:40px"/>&nbsp;&nbsp;
+  <img src="https://github.com/dacitto/images-icons/blob/main/node-js.png" alt="node-js" style="width:40px"/>&nbsp;&nbsp;
   <img src="https://github.com/dacitto/images-icons/blob/main/php.png" alt="php" style="width:40px"/>
   
 </div>
