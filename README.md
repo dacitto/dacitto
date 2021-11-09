@@ -8,6 +8,7 @@
 
 
 ## Some of my projects
+
 |#| Project (live preview)  | Repo |
 |-| ----------- | ----------- |
 |1| [Social media dashboard](https://dacitto.github.io/social-media-dashboard-with-theme-switcher/)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="html" style="width:40px;"/>](https://github.com/dacitto/social-media-dashboard-with-theme-switcher)
