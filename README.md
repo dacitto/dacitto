@@ -24,7 +24,11 @@
 
  [Weatherly weather app (live preview)](https://weathely.netlify.app/)
  <div align="center">
-  <img src="https://github.com/dacitto/images-icons/blob/main/previews/weatherly.png"  style="width:80%"/>
+ 
+ 
+  [<img src="https://github.com/dacitto/images-icons/blob/main/previews/weatherly.png"  style="width:80%"/>](https://weathely.netlify.app/)
+ 
+ 
 </div>
 
 
