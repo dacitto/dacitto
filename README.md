@@ -1,7 +1,7 @@
 ## Hi there, Im Salah Eddine 👋
 ### Front End Web Developer / Software Engineer 
 [![](https://readme-typing-svg.herokuapp.com?font=Quantico&color=01D248&lines=React;NextJS;Mui;TypeScript;CSS;a11y)]()
-#### Welcome to my profile
+## Welcome to my profile
 
 ##### Social Links:
 <a href='https://www.linkedin.com/in/salah-daci/'><img src="https://github.com/dacitto/images-icons/blob/main/linkedin.png" alt="html" style="width:40px"/></a>
