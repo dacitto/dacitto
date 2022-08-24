@@ -20,6 +20,7 @@
 |6| [Fylo landing page](https://dacitto.github.io/fylo-dark-theme-landing-page/)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/dacitto/fylo-dark-theme-landing-page)
 |7| [Weatherly weather app](https://weathely.netlify.app/)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/dacitto/weather-app)
 |8| [UdaciCard (React Native)](https://github.com/dacitto/UdaciCards) | [<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/dacitto/UdaciCards)
+|9| [Would You Rather](https://would-you-rather-redux.netlify.app) | [<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/dacitto/Would-You-Rather)
 
  ### Latest Project 
  #### Weatherly
