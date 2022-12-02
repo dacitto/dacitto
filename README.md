@@ -36,7 +36,7 @@
 </div>
 
 
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 
 <div align="center">
   <img src="https://github.com/dacitto/images-icons/blob/main/html.png" alt="html" style="width:40px;"/>&nbsp;&nbsp;
