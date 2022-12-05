@@ -1,6 +1,6 @@
 ## Hi there, Im Salah Eddine 👋
 ### Front End Web Developer / Software Engineer 
-[![](https://readme-typing-svg.herokuapp.com?font=Quantico&color=01D248&lines=React;NextJS;Mui;TypeScript;CSS;a11y)]()
+[![](https://readme-typing-svg.herokuapp.com?font=Quantico&color=01D248&lines=JavaScript;React;NextJS;Mui;TypeScript;CSS;a11y;Sass)]()
 ## Welcome to my profile
 
 ##### Social Links:
@@ -44,7 +44,7 @@
   <img src="https://github.com/dacitto/images-icons/blob/main/js.png" alt="javascript" style="width:40px"/>&nbsp;&nbsp;
    <img src="https://github.com/dacitto/images-icons/blob/main/typescript.png" alt="typescript" style="width:40px"/>&nbsp;&nbsp;
   <img src="https://github.com/dacitto/images-icons/blob/main/sass.png" alt="sass" style="width:40px"/>&nbsp;&nbsp;
-<!--   <img src="https://github.com/dacitto/images-icons/blob/main/nextjs.png" alt="nextjs" style="width:40px;background:white"/>&nbsp;&nbsp; -->
+  <img src="https://github.com/dacitto/images-icons/blob/main/nextjs2.png" alt="nextjs" style="width:40px;background:white"/>&nbsp;&nbsp;
   <img src="https://github.com/dacitto/images-icons/blob/main/science.png" alt="react" style="width:40px"/>&nbsp;&nbsp;
   <img src="https://github.com/dacitto/images-icons/blob/main/redux.png" alt="redux" style="width:40px"/>&nbsp;&nbsp;
    <img src="https://github.com/dacitto/images-icons/blob/main/mui.png" alt="mui" style="width:40px"/>&nbsp;&nbsp;
