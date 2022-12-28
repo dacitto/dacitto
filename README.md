@@ -10,6 +10,8 @@
 
 ## Some of my projects
 
+ <div align="center">
+
 |#| Project (live preview)  | Repo |
 |-| ----------- | ----------- |
 |1| [Social media dashboard](https://dacitto.github.io/social-media-dashboard-with-theme-switcher/)|[<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="html" style="width:40px;"/>](https://github.com/dacitto/social-media-dashboard-with-theme-switcher)
@@ -23,7 +25,9 @@
 |9| [Would You Rather](https://would-you-rather-redux.netlify.app) | [<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/dacitto/Would-You-Rather)
 |10| [Apk Store](https://github.com/dacitto/apk-store) | [<img src="https://github.com/dacitto/images-icons/blob/main/github.png" alt="" style="width:40px;"/>](https://github.com/dacitto/apk-store)
 
- ### Latest Project 
+
+</div>
+<!--  ### Latest Project 
  #### Weatherly
 
  [Weatherly weather app (live preview)](https://weathely.netlify.app/)
@@ -33,7 +37,7 @@
   [<img src="https://github.com/dacitto/images-icons/blob/main/previews/weatherly.png"  style="width:80%"/>](https://weathely.netlify.app/)
  
  
-</div>
+</div> -->
 
 
 ## 🛠️ Languages and Tools:
