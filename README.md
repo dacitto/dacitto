@@ -37,7 +37,7 @@
   [<img src="https://github.com/dacitto/images-icons/blob/main/previews/weatherly.png"  style="width:80%"/>](https://weathely.netlify.app/)
  
  
-</div> --> -->
+</div> --> 
 
 
 ## 🛠️ Languages and Tools:
