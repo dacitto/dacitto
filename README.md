@@ -8,7 +8,7 @@
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-## Some of my projects
+<!-- ## Some of my projects
 
  <div align="center">
 
@@ -37,7 +37,7 @@
   [<img src="https://github.com/dacitto/images-icons/blob/main/previews/weatherly.png"  style="width:80%"/>](https://weathely.netlify.app/)
  
  
-</div> -->
+</div> --> -->
 
 
 ## 🛠️ Languages and Tools:
