@@ -1,6 +1,6 @@
 ## Hi there, Im Salah Eddine 👋
 ### Front End Web Developer / Software Engineer 
-[![](https://readme-typing-svg.herokuapp.com?font=Quantico&color=01D248&lines=Typescript;React;React%20Native;NextJs;)]()
+[![](https://readme-typing-svg.herokuapp.com?font=Quantico&color=01D248&lines=Javascript;Typescript;React;React%20Native;NextJs;)]()
 ## Welcome to my profile
 
 ##### Social Links:
@@ -40,7 +40,7 @@
 </div> --> 
 
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools
 
 <div align="center">
   <img src="https://github.com/dacitto/images-icons/blob/main/html.png" alt="html" style="width:40px;"/>&nbsp;&nbsp;
